@@ -1,6 +1,0 @@
-# CWDN
-This is the Code and data for the paper: 
-Optimized Integration of Solar and Battery Systems in Water Distribution Networks
-Anudeep Bhatraj, Elad Salomons, Mashor Housh
-School of Environmental Sciences, University of Haifa, Israel.
-Correspondence: bhatrajanudeep@gmail.com 
